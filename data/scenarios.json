@@ -1,0 +1,14 @@
+[
+  {"id":"selene_strait","domain":"maritime","state":"Selene","rival":"Orinth","issue":"navigation rights through the narrow Pelagos Strait","stakes":"Control would reduce Selene's commercial shipping costs, but neither side faces an existential threat."},
+  {"id":"varos_border","domain":"territory","state":"Varos","rival":"Lydon","issue":"a sparsely populated 40-square-kilometer border zone","stakes":"The zone has symbolic value and modest mineral deposits."},
+  {"id":"talmera_river","domain":"water","state":"Talmera","rival":"Boreal","issue":"the allocation of dry-season water from the Arken River","stakes":"Both states need the water for agriculture, and a temporary compromise is technically feasible."},
+  {"id":"caelis_airspace","domain":"airspace","state":"Caelis","rival":"Demer","issue":"military transit through a disputed air-defense identification zone","stakes":"The dispute affects prestige and surveillance access but not sovereign airspace."},
+  {"id":"isara_fishery","domain":"resources","state":"Isara","rival":"Nemer","issue":"seasonal fishing access around the uninhabited Tern Islands","stakes":"The fishery matters economically to coastal communities in both states."},
+  {"id":"arden_pipeline","domain":"energy","state":"Arden","rival":"Veyra","issue":"transit fees for the Crossvale natural-gas pipeline","stakes":"Alternative routes exist, though using them would be expensive for both states."},
+  {"id":"pelion_port","domain":"trade","state":"Pelion","rival":"Soria","issue":"inspection rules at the jointly administered Port Kestrel","stakes":"Delays are costly, but a neutral inspection mechanism is available."},
+  {"id":"mira_plateau","domain":"territory","state":"Mira","rival":"Tasson","issue":"patrol rights on the remote Elian Plateau","stakes":"The plateau has limited material value but features in both states' national narratives."},
+  {"id":"norvale_cable","domain":"infrastructure","state":"Norvale","rival":"Estra","issue":"maintenance access to a subsea communications cable","stakes":"Both economies benefit from uninterrupted service and can monitor compliance."},
+  {"id":"quorin_customs","domain":"trade","state":"Quorin","rival":"Alba","issue":"customs authority along a disputed rail corridor","stakes":"The corridor carries significant trade, while alternate crossings have spare capacity."},
+  {"id":"elyria_shelf","domain":"resources","state":"Elyria","rival":"Karth","issue":"exploration rights on an overlapping continental-shelf claim","stakes":"Possible gas reserves are valuable but remain unproven."},
+  {"id":"doria_canal","domain":"maritime","state":"Doria","rival":"Rhen","issue":"priority passage rules through the Lume Canal","stakes":"Congestion imposes costs on both states, and arbitration has succeeded before."}
+]
