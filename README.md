@@ -1,6 +1,5 @@
 # Crisis Bargaining Lab
 
-A reproducible LLM experiment at the intersection of **game theory, international relations, and geopolitics**.
 
 The lab tests whether an LLM changes its crisis advice when a fictional state’s threat becomes more credible. It uses a 2×2 treatment design:
 
